@@ -1,2 +1,3 @@
 # Disney-Hotstar-clone
-This is Just simple frontend project
+/* To Run this WebSite */
+Run index.html
